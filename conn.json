@@ -1,1 +1,6 @@
-{"server_addr": "9bd0385.r21.cpolar.top:443", "server_token": "jz-YUFTS11WXcBAm-9gPytjsA"}
+{
+  "server_addr": "192.168.3.3:9118",
+  "server_token": "jz-YUFTS11WXcBAm-9gPytjsA",
+  "updated_at": "2026-08-17T06:50:00+08:00",
+  "note": "局域网反代直连(正式)——修复:隧道地址残留导致列表页超时"
+}
