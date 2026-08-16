@@ -1,6 +1,1 @@
-{
-  "server_addr": "192.168.3.3:9118",
-  "server_token": "jz-YUFTS11WXcBAm-9gPytjsA",
-  "updated_at": "2026-08-17T02:50:00+08:00",
-  "note": "局域网反代直连(正式)"
-}
+{"server_addr": "9bd0385.r21.cpolar.top:443", "server_token": "jz-YUFTS11WXcBAm-9gPytjsA"}
