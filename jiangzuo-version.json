@@ -1,1 +1,7 @@
-{"app": "jiangzuo", "version": "1.2.0", "version_code": 2, "notes": "模型切换(云端快版/强版/本地qwen3.6)、语音识别链路上线、顶部菜单单击即弹", "updated_at": "2026-08-17"}
+{
+  "app": "jiangzuo",
+  "version": "1.2.1",
+  "version_code": 3,
+  "notes": "修复会话列表加载超时(远程隧道地址残留覆盖本地配置的根因)+会话列表改本地优先连接链(与聊天页一致)",
+  "updated_at": "2026-08-17"
+}
