@@ -1,6 +1,6 @@
 {
-  "server_addr": "7041468a.r3.cpolar.cn",
+  "server_addr": "adc3f04.r21.cpolar.top",
   "server_token": "jz-YUFTS11WXcBAm-9gPytjsA",
-  "updated_at": "2026-08-17T01:50:00+08:00",
-  "note": "姜作App连接配置: 隧道换域名时只改这个文件,App重启自动生效"
+  "updated_at": "2026-08-17T02:05:00+08:00",
+  "note": "姜作App连接配置"
 }
