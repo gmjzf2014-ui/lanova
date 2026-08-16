@@ -1,6 +1,6 @@
 {
-  "server_addr": "ws://adc3f04.r21.cpolar.top",
+  "server_addr": "192.168.3.3:9118",
   "server_token": "jz-YUFTS11WXcBAm-9gPytjsA",
-  "updated_at": "2026-08-17T02:10:00+08:00",
-  "note": "明文ws测试"
+  "updated_at": "2026-08-17T02:50:00+08:00",
+  "note": "局域网反代直连(正式)"
 }
